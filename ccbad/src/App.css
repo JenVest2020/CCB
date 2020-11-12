@@ -31,7 +31,6 @@
 
   @media {max-width: 500px;
   .location-block{
-    height:15vh ;
-    font-size: 1rem;
+    flex-direction: column;
   }
   }

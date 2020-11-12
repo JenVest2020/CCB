@@ -32,8 +32,15 @@ const Home = () => {
                 </div>
                 <div>
                     <h2 className='h2'>Come See Us</h2>
-                    <h3 style={{ textDecoration: 'underline' }}>Locations</h3>
+                    <h3 style={{ textDecoration: 'underline' }}>Locations & Times</h3>
                     <div >
+                        {/* <div className='location-block'>
+                            <p>Fridays 4pm to 7pm</p>
+                            <p style={{ fontWeight: 'bold' }}>Elk's Lodge</p>
+                            <span>300 S. Main St</span>
+                            <span>De Soto, MO 63020</span>
+                            <a href='www.melbatheater.com'>Melba Theater website</a>
+                        </div> */}
                         <div className='location-block'>
                             <p>CANCELED by Covid</p>
                             <p style={{ fontWeight: 'bold' }}> The Melba Theater</p>
@@ -42,13 +49,7 @@ const Home = () => {
                             <p>Saturday Nov. 14, 5:30pm</p>
                             <a href='https://www.melbatheater.com/'>Melba Theater website</a>
                         </div>
-                        {/* <div className='location-block'>
-                            <p style={{ fontWeight: 'bold' }}>Elk's Lodge</p>
-                            <span>300 S. Main St</span>
-                            <span>De Soto, MO 63020</span>
-                        Fridays 4pm to 7pm
-                        <a href='www.melbatheater.com'>Melba Theater website</a>
-                        </div> */}
+
                     </div>
                     <h2>Contact Us</h2>
                     <p> Allen Vest ph# (513)210-2934</p>

@@ -39,7 +39,7 @@ const Home = () => {
                             <span>300 S. Main St</span>
                             <br></br><span>De Soto, MO 63020</span>
                             <p>Saturday Nov. 14, 5:30pm</p>
-                            <a href='www.melbatheater.com'>Melba Theater website</a>
+                            <a href='https://www.melbatheater.com/'>Melba Theater website</a>
                         </div>
                         {/* <div className='location-block'>
                             <p style={{ fontWeight: 'bold' }}>Elk's Lodge</p>

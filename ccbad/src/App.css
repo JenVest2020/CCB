@@ -26,7 +26,8 @@
     display: flex;
     justify-content:space-between;
     align-items: center;
-    border:2px ridge #993300
+    border:2px ridge #993300;
+    background: linear-gradient(to top right,#993300, #ffffff)
   }
 
   @media (max-width: 500px){

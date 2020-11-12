@@ -33,4 +33,8 @@
   .location-block{
     flex-direction: column;
   }
+  .h2{
+    font-size: large;
+    font-weight: bolder;
+  }
 }

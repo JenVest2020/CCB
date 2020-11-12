@@ -31,7 +31,7 @@ const Home = () => {
                     <img src={Johnny} alt='lead singer Johnny sitting at the microphone and playing his guitar' style={{ width: '100%' }} />
                 </div>
                 <div>
-                    <h2>Come See Us</h2>
+                    <h2 className='h2'>Come See Us</h2>
                     <h3 style={{ textDecoration: 'underline' }}>Locations</h3>
                     <div >
                         <div className='location-block'>

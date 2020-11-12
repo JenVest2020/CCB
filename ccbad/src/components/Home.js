@@ -52,7 +52,7 @@ const Home = () => {
 
                     </div>
                     <h2>Contact Us</h2>
-                    <p> Allen Vest ph# (513)210-2934</p>
+                    <p> Allen Vest ph# (573)210-2934</p>
                     <p>Johnny Lindsey ph# (314)309-4433</p>
                 </div>
                 <div>

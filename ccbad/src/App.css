@@ -29,8 +29,8 @@
     border:2px ridge #993300
   }
 
-  @media {max-width: 500px;
+  @media (max-width: 500px){
   .location-block{
     flex-direction: column;
   }
-  }
+}

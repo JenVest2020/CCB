@@ -35,6 +35,7 @@ const Home = () => {
                     <h3 style={{ textDecoration: 'underline' }}>Locations</h3>
                     <div >
                         <div className='location-block'>
+                            <p>CANCELED by Covid</p>
                             <p style={{ fontWeight: 'bold' }}> The Melba Theater</p>
                             <span>300 S. Main St</span>
                             <br></br><span>De Soto, MO 63020</span>

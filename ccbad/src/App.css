@@ -30,7 +30,17 @@
     background: linear-gradient(to top right,#993300, #ffffff)
   }
 
-  @media (max-width: 500px){
+  @media (max-width: 800px){
+  .location-block{
+    flex-direction: column;
+  }
+  .h2{
+    font-size: large;
+    font-weight: bolder;
+  }
+}
+
+@media (max-width: 500px){
   .location-block{
     flex-direction: column;
   }
